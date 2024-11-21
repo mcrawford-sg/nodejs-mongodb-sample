@@ -1,6 +1,6 @@
 schemaVersion: 2.2.2
 metadata:
-  name: nodejs-mongodb
+  name: nodejs-mongodb-devspaces-example
 components:
   - name: tools
     container:
